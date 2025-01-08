@@ -1,0 +1,38 @@
+[
+  {
+    "id": 999,
+    "name": "Peter",
+    "password": "1234",
+    "scores": {
+      "Math": 45
+    }
+  },
+  {
+    "id": 101010,
+    "name": "Testovich",
+    "password": "8888",
+    "scores": {
+      "Math": 95
+    }
+  },
+  {
+    "id": 55,
+    "name": "Peter",
+    "password": "1234",
+    "scores": {
+      "Math": 80
+    }
+  },
+  {
+    "id": 43,
+    "name": "Peter",
+    "password": "1234",
+    "scores": {}
+  },
+  {
+    "id": 2,
+    "name": "Peter",
+    "password": "1234",
+    "scores": {}
+  }
+]
